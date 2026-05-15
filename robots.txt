@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://HalxDocs.github.io/readme-qjzdj8/sitemap.xml
